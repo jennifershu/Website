@@ -1,0 +1,109 @@
+
+body {
+	background-color: #548235
+}
+
+#logo {
+	position: absolute;
+	float: left;
+	height: 40%;
+	left: -50px;
+	top: 30%;
+}
+
+.btn {
+	position: absolute;
+	border-radius: 20px;
+ 	border-color: #A9D18E;
+ 	color: white;
+ 	background-color: #A9D18E;
+ 	padding: 10px 20px 10px 50px;
+ 	width: 8%;
+ 	top: 65%;
+ 	font-family: "Century Gothic""Impact"  "Arial" ;
+ 	font-weight: bold;
+ 	font-size: 20px;
+ 	float: left;
+}
+
+#home {
+	left: 11%;
+}
+
+#about {
+	left: 27%;
+}
+
+#reasons {
+	left: 43%;
+}
+
+#todolist {
+	left: 59%;
+}
+
+#contact {
+	left: 75%;
+}
+
+.bulbs {
+	position: absolute;
+	float: left;
+	height: 90px;
+	top: 58%;
+}
+
+#homeBulb {
+	left: 10%;
+}
+
+#aboutBulb {
+	left: 26%;
+}
+
+#reasonsBulb {
+	left: 42%;
+}
+
+#todoBulb {
+	left: 58%;
+}
+
+#contactBulb {
+	left: 74%;
+}
+
+#bigQuote {
+	position: absolute;
+	margin: 38% 20%;
+	font-family: "Century Gothic" "Arial";
+	color: white;
+	font-size: 380%;
+	width: 60%;
+}
+
+#apology {
+	color:#F4B183;
+}
+
+.chords {
+	position: absolute;
+	height: 5%;
+}
+
+#pinkUSB1 {
+	top: 125%;
+}
+
+#firstParagraph {
+	height: 200pxpx;
+	width: 80%;
+	position: absolute;
+	top: 150%;
+	left: 10%;
+}
+
+#yellowUSB1 {
+	top: 215%;
+	left: 68%;
+}
